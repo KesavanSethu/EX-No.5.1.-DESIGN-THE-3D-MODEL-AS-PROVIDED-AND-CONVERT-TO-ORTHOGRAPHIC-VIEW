@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![Model 5 1 Drawing v1 KESAVAN_page-0001](https://github.com/user-attachments/assets/c79b9cba-8606-4540-8451-f023921f4de0)
 
 
 ## RESULT:
